@@ -12,6 +12,7 @@ export default function Tasks() {
       <Categories />
       <OnGoingTasks />
     </View>
+    
   );
 }
 
